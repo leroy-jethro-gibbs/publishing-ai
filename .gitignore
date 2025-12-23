@@ -28,7 +28,7 @@ Thumbs.db
 !requirements.txt
 !README.txt
 
-# Logs
+logs/
 *.log
 ```
 ```
