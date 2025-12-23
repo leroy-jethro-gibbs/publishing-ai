@@ -362,7 +362,7 @@ with col1:
     st.subheader("プロジェクト情報")
     project_name = st.text_input(
         "プロジェクト名",
-        value="プSubnautica 2",
+        value="insert Project name...",
         help="ゲームタイトルや製品名"
     )
     
